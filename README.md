@@ -3,22 +3,6 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Terms of Service – Food Delivery App</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 40px auto;
-      max-width: 800px;
-      padding: 0 20px;
-      line-height: 1.6;
-    }
-    h1, h2 {
-      color: #333;
-    }
-    a {
-      color: #ff6600;
-    }
-  </style>
 </head>
 <body>
   <h1>Terms of Service</h1>
